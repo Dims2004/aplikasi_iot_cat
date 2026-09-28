@@ -1,0 +1,15 @@
+{
+  "name": "CatFeeder – Smart Feeder IoT",
+  "short_name": "CatFeeder",
+  "description": "Pantau dan kontrol pakan & air kucing lewat ESP32 dan MQTT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0d1f",
+  "theme_color": "#7c3aed",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
